@@ -11,7 +11,7 @@ terraform {
     }
   }
   backend "s3" {
-    bucket = "saikiranbucket94"
+    bucket = "ekangaki2024"
     key    = "dev-modules.tfstate"
     region = "us-east-1"
   }
